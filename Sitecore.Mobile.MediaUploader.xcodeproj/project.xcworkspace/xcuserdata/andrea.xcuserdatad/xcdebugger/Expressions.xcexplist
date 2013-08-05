@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[sc_UploadFolderViewController setCurrentPathLabelText]:sc_UploadFolderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentFolder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_Upload2ViewController didMoveToParentViewController:]:sc_Upload2ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.ViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_ViewController viewDidAppear:]:sc_ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_appDataObject.mediaUpload.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_MapViewController setSelectedPlaceMark:]:sc_MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_appDataObject.selectedPlaceMark .locality">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_AppDelegate application:didFinishLaunchingWithOptions:]:sc_AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SettingsViewController reload]:sc_SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_appDataObject.sites">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_GradientButton drawRect:]:sc_GradientButton.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bounds.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.imageEdgeInsets ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_UploadViewController shouldPerformSegueWithIdentifier:sender:]:sc_UploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_appDataObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__49-[sc_Upload2ViewController createMediaItem:site:]_block_invoke_2:sc_Upload2ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.mediaItemData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__79-[sc_UploadViewController imagePickerController:didFinishPickingMediaWithInfo:]_block_invoke_2:sc_UploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_thumbnail">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_UploadFolderViewController tableView:cellForRowAtIndexPath:]:sc_UploadFolderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.contentView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_UploadViewController imagePickerControllerDidCancel:]:sc_UploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_imagePicker.sourceType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_MapViewController goBackButtonPushed:]:sc_MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_appDataObject.selectedPlaceMark.locality">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SettingsViewController viewDidLoad]:sc_SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_appDataObject.sites">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SiteDataController getAppDataObject]:sc_SiteDataController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UIApplication sharedApplication]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_UploadFolderViewController useButtonPushed:]:sc_UploadFolderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parentViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SettingsViewController prepareForSegue:sender:]:sc_SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[segue identifier]">
+            </PersistentString>
+            <PersistentString
+               value = "sender.label">
+            </PersistentString>
+            <PersistentString
+               value = "sender">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_GradientButton showRightArrow]:sc_GradientButton.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.bounds.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_Upload2ViewController createMediaItem:site:]:sc_Upload2ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.folder">
+            </PersistentString>
+            <PersistentString
+               value = "request.mediaItemData">
+            </PersistentString>
+            <PersistentString
+               value = "ta">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "mediaItem.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__97-[sc_SiteDefinitionViewController authenticate:username:password:uploadFolder:selectedForUpload:]_block_invoke:sc_SiteDefinitionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__49-[sc_Upload2ViewController createMediaItem:site:]_block_invoke:sc_Upload2ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.folder">
+            </PersistentString>
+            <PersistentString
+               value = "request.mediaItemData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_Button initBorder]:sc_Button.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.backgroundColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SettingsViewController viewDidAppear:]:sc_SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_sitesTableView indexPathForSelectedRow]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_MapViewController initializeLocation]:sc_MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_appDataObject.selectedPlaceMark">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SiteDataController init]:sc_SiteDataController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sites">
+            </PersistentString>
+            <PersistentString
+               value = "_sites">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SettingsViewController login:]:sc_SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_loginTextField.hasText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_ViewController viewDidLoad]:sc_ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_appDataObject.mediaUpload.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_MapViewController goToLocation:]:sc_MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "location.location">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_ViewController prepareForSegue:sender:]:sc_ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_Button addHighlightLayer]:sc_Button.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "highlightLayer.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.layer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SiteDefinitionViewController authenticate:::]:sc_SiteDefinitionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SiteDataController countOfList]:sc_SiteDataController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_appDataObject.sites count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_GlobalDataObject loadSites]:sc_GlobalDataObject.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sitesDataFromPlist">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_FolderHierarchy initializeCurrentPaths:]:sc_FolderHierarchy.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "start">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__79-[sc_UploadViewController imagePickerController:didFinishPickingMediaWithInfo:]_block_invoke:sc_UploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_thumbnail">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_UploadViewController imagePickerController:didFinishPickingMediaWithInfo:]:sc_UploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_thumbnail">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_UploadViewController navigationController:willShowViewController:animated:]:sc_UploadViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_UploadFolderViewController viewDidLoad]:sc_UploadFolderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentSite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sc_SettingsViewController didMoveToParentViewController:]:sc_SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parentViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

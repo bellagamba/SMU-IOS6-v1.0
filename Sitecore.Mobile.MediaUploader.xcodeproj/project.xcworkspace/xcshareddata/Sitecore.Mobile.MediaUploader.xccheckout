@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97ABB986-DD8E-4B20-B6AD-3B7F9060A82F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sitecore.Mobile.MediaUploader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>66E14791-CD1D-4443-9414-2B0A8383CD2B</key>
+		<string>https://exbp-02.dyndns.org:8443/svn/bellagamba/trunk/Projects/Sitecore.Mobile.MediaUploader</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Sitecore.Mobile.MediaUploader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>66E14791-CD1D-4443-9414-2B0A8383CD2B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>66E14791-CD1D-4443-9414-2B0A8383CD2B</key>
+		<string>https://exbp-02.dyndns.org:8443/svn/bellagamba</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://exbp-02.dyndns.org:8443/svn/bellagamba/trunk/Projects/Sitecore.Mobile.MediaUploader/Sitecore.Mobile.MediaUploader.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>66E14791-CD1D-4443-9414-2B0A8383CD2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>66E14791-CD1D-4443-9414-2B0A8383CD2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SItecoreSDK_Sitecore.Mobile</string>
+		</dict>
+	</array>
+</dict>
+</plist>

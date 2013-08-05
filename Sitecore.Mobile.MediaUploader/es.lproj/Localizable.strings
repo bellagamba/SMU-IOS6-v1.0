@@ -1,0 +1,81 @@
+/*
+ Localizable.strings
+ Sitecore.Mobile.MediaUploader
+ 
+ Created by Steve Jennings on 7/24/13.
+ Copyright (c) 2013 Sitecore. All rights reserved.
+ */
+
+//sc_ViewController
+"Upload" = "Subir";
+"Browse" = "Navegar";
+"Pending" = "Pendiente";
+"Please check your internet connection." = "Por favor, compruebe su connexión.";
+"Please set up at least one upload site." = "Por favor, establezca por lo menos un sitio web.";
+
+//sc_UploadViewController
+"Location undefined" = "Lugar desconocido";
+"Save failed" = "Error al guardar";
+"Failed to save media item" = "No se ha podido guardar la imagen";
+"OK" = "OK";
+"Please enter a valid name" = "Por favor, escriba un nombre válido";
+"Upload later" = "Subir más tarde";
+"Name" = "Nombre";
+
+//sc_SettingsViewController
+"Sites" = "Sitios";
+
+//sc_SiteDefinitionViewController
+"Please enter a valid site." = "Por favor, escriba un sitio válido.";
+"Authentication failure." = "Auntentificación fracasada.";
+"Please enter username and password." = "Escriba usuario y contraseña.";
+"Please enter valid username and password." = "Por favor, escriba un usuario y una contraseña válidos.";
+"Please enter a valid site url." = "Por favor, escriba una dirección válida";
+"Sites settings" = "Configuración de sitios";
+"Site" = "Sitio";
+"User" = "Usuario";
+"Upload folder" = "Carpeta de destino";
+"Selected for upload" = "Seleccionado para subir";
+"Delete" = "Borrar";
+"Save" = "Guardar";
+"Site url" = "URL del sitio";
+"Domain\\Username" = "Dominio\\Usuario";
+"Password" = "Contraseña";
+"Login" = "Entrar";
+"Authenticating" = "Autentificando";
+
+//sc_SitesSelectionViewController
+"Select the site you wish to browse." = "Seleccione el sitio por el que quiere navegar.";
+"Browsing site" = "Sitio para navegar";
+
+//sc_Upload2ViewController
+"Aborted" = "Abortado";
+"Uploading  %d of %lu" = "Subiendo  %d de %lu";
+"Uploading" = "Subiendo";
+"Uploaded" = "Subido";
+"Cancelled" = "Cancelado";
+"Cancel" = "Cancelar";
+"Done" = "Hecho";
+"Preparing media" = "Preparando para subir";
+
+//sc_PendingFilesManagerViewController
+"Pending files" = "Archivos pendientes";
+
+//sc_MapViewController
+"Permission Denied" = "Permiso denegado";
+"Please enable Map Services" = "Por favor, active servicios de mapa";
+"Error retrieving location" = "Error al buscar la localización";
+"Map" = "Mapa";
+
+//sc_FolderHierarchy
+"Loading..." = "Cargando...";
+
+//sc_BrowseViewController
+"No sites defined" = "No hay ningún sitio definido";
+"Media browser" = "Navegador";
+
+//sc_UploadFolderViewController
+"Use" = "Usar";
+
+
+
